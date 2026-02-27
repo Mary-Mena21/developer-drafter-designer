@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/developer-drafter/static/css/main.bebafe61.css",
+    "main.js": "/developer-drafter/static/js/main.9e58dfef.js",
+    "static/js/453.1307f686.chunk.js": "/developer-drafter/static/js/453.1307f686.chunk.js",
+    "index.html": "/developer-drafter/index.html",
+    "main.bebafe61.css.map": "/developer-drafter/static/css/main.bebafe61.css.map",
+    "main.9e58dfef.js.map": "/developer-drafter/static/js/main.9e58dfef.js.map",
+    "453.1307f686.chunk.js.map": "/developer-drafter/static/js/453.1307f686.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bebafe61.css",
+    "static/js/main.9e58dfef.js"
+  ]
+}
